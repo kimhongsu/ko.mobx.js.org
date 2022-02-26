@@ -10,7 +10,7 @@ hide_title: true
 
 MobX는 브라우저와 NodeJS를 포함한 모든 ES5 환경에서 작동합니다.
 
-React 바인딩에는 함수형 컴포넌트만 지원하는 `mobx-react-lite`와 클래스 기반 컴포넌트도 지원하는 `mobx-react` 이렇게 총 두가지 종류가 있습니다. 사용 목적에 맞도록 하단의 _Yarn_ 또는 _NPM_ 커맨드를 참고하세요.
+React 바인딩에는 함수 컴포넌트만 지원하는 `mobx-react-lite`와 클래스 기반 컴포넌트도 지원하는 `mobx-react` 이렇게 총 두가지 종류가 있습니다. 사용 목적에 맞도록 하단의 _Yarn_ 또는 _NPM_ 커맨드를 참고하세요.
 
 **Yarn:** `yarn add mobx`
 
